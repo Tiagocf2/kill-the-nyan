@@ -4,7 +4,7 @@
 Um jogo antigo feito em FLASH para um projeto do IFSP.  
 Desenvolvido por Isabelle Neves Porto, Renata Souza e Tiago Civatti Frausino.  
 
-![Flash](https://www.shields.io/badge/Flash-FF0000?logo=adobe&logoColor=white&style=for-the-worthy)  
+![Flash](https://www.shields.io/badge/Flash-FF0000?logo=adobe&logoColor=white&style=for-the-badge)  
 
 ---
 
