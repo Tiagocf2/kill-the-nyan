@@ -44,5 +44,5 @@ Algumas imagens retiradas do jogo.
 
 * É necessário o uso do *FlashPlayer* para executar o jogo, então abra o arquivo através dele para jogar (o atalho faz basicamente isso). Não mova o atalho senão ele não irá funcionar.
   
-### [Baixar o jogo.](https://raw.github.com/Tiagocf2/kill-the-nyan/raw/main/KillTheNyan.rar/)  
+### [Baixar o jogo.](https://github.com/Tiagocf2/kill-the-nyan/raw/main/KillTheNyan.rar)  
 Estamos procurando um jeito de disponibilizar o jogo on-line mesmo com o desuso do Flash em navegadores modernos.
